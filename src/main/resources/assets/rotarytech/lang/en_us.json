@@ -1,5 +1,9 @@
 {
-  "itemGroup.rotarytech": "Example Mod Tab",
-  "block.rotarytech.example_block": "Example Block",
-  "item.rotarytech.example_item": "Example Item"
+  "itemGroup.rotarytech": "RotaryTech",
+  "itemGroup.rotarytech.blocks": "RotaryTech Blocks",
+  "itemGroup.rotarytech.items": "RotaryTech Items",
+  "block.rotarytech.steel_block": "Steel Block",
+  "block.rotarytech.hsla_steel_block": "HSLA Steel Block",
+  "item.rotarytech.steel_ingot": "Steel Ingot",
+  "item.rotarytech.hsla_steel_ingot": "HSLA Steel Ingot"
 }
